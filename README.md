@@ -1,4 +1,4 @@
-# Python Practice Questions
+# Python Practice Question
 
 ![Python Banner](https://capsule-render.vercel.app/api?type=waving&color=0:306998,100:FFD43B&height=200&section=header&text=Python%20Practice%20Questions&fontSize=40&fontColor=ffffff)
 
